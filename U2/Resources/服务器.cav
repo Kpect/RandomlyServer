@@ -1,0 +1,4 @@
+Canvas:Form_1
+image,688,0,720,32,#000000,#FC6E51,2,0,0,返回.png,image_1,unlock
+rect,482,67,688,89,#ccbb99,#ccbb99,2,0,0,rect_2,unlock
+JumpToUI,image_1,ButtonDown,Project1.py

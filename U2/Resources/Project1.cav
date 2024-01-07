@@ -1,0 +1,3 @@
+Canvas:Form_1
+image,96,261,223,365,#000000,#FC6E51,2,0,0,服务器 (1).png,image_1,unlock
+JumpToUI,image_1,ButtonDown,服务器.py
